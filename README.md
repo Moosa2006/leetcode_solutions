@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Moosa2006/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Moosa2006/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/Moosa2006/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Moosa2006/leetcode_solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Moosa2006/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Moosa2006/leetcode_solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
