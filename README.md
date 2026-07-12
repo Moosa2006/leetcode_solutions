@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Moosa2006/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0493-reverse-pairs](https://github.com/Moosa2006/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Moosa2006/leetcode_solutions/tree/master/0704-binary-search) |
+| [1331-rank-transform-of-an-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,8 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Moosa2006/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [1331-rank-transform-of-an-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Moosa2006/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [1331-rank-transform-of-an-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
