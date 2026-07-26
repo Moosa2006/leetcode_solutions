@@ -109,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Moosa2006/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Moosa2006/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
