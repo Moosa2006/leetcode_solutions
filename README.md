@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moosa2006/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Moosa2006/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
