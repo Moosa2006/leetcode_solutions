@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Moosa2006/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Moosa2006/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Moosa2006/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Moosa2006/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Moosa2006/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Moosa2006/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Moosa2006/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Moosa2006/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Moosa2006/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Moosa2006/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Moosa2006/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Moosa2006/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Moosa2006/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Moosa2006/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Moosa2006/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Moosa2006/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Moosa2006/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moosa2006/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Moosa2006/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Moosa2006/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
