@@ -184,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Moosa2006/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Moosa2006/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
