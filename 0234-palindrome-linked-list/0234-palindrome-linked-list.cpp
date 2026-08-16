@@ -11,15 +11,16 @@
 class Solution {
 public:
     ListNode* reversell(ListNode* head){
-        if(head == NULL || head->next == NULL){
-            return head;
-        }
+        ListNode* prev = NULL;
+        ListNode* temp = head;
 
-        ListNode* newhead = reversell(head->next);
-        ListNode* front = head->next;
-        front->next = head;
-        head->next = NULL;
-        return newhead;
+        while(temp != NULL){
+            ListNode* front = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = front;
+        }
+        return prev;
     }
     bool isPalindrome(ListNode* head) {
         ListNode* temp = head;
