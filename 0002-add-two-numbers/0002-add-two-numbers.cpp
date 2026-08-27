@@ -13,7 +13,7 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* dummy = new ListNode();
         ListNode* temp = dummy;
-        int carry = 0;
+        int carry = 0; 
         while(l1 != nullptr || l2 != nullptr || carry){
             int sum = 0;
             if(l1 != nullptr){
