@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Moosa2006/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Moosa2006/leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Moosa2006/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Moosa2006/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -258,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
