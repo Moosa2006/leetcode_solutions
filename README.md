@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Moosa2006/leetcode_solutions/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/Moosa2006/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
