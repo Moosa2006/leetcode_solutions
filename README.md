@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Moosa2006/leetcode_solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Moosa2006/leetcode_solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Moosa2006/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Moosa2006/leetcode_solutions/tree/master/0162-find-peak-element) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Moosa2006/leetcode_solutions/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Moosa2006/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Moosa2006/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
