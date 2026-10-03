@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Moosa2006/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Moosa2006/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Moosa2006/leetcode_solutions/tree/master/0493-reverse-pairs) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Moosa2006/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Moosa2006/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Moosa2006/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
