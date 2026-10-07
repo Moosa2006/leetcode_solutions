@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moosa2006/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Moosa2006/leetcode_solutions/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Moosa2006/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Moosa2006/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Moosa2006/leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Moosa2006/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Moosa2006/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/Moosa2006/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
