@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Moosa2006/leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Moosa2006/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Moosa2006/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Moosa2006/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Moosa2006/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Moosa2006/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Moosa2006/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Moosa2006/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Moosa2006/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Moosa2006/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Moosa2006/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Moosa2006/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Moosa2006/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Moosa2006/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moosa2006/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Moosa2006/leetcode_solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Moosa2006/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Moosa2006/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Moosa2006/leetcode_solutions/tree/master/0860-lemonade-change) |
