@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Moosa2006/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Moosa2006/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Moosa2006/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Moosa2006/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Moosa2006/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -342,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Moosa2006/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Moosa2006/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
