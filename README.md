@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Moosa2006/leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Moosa2006/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Moosa2006/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Moosa2006/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Moosa2006/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Moosa2006/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Moosa2006/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moosa2006/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Moosa2006/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3536-maximum-product-of-two-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -154,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Moosa2006/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Moosa2006/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Moosa2006/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Moosa2006/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Moosa2006/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Moosa2006/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Moosa2006/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
 |  |
 | ------- |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Moosa2006/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Moosa2006/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
