@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Moosa2006/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Moosa2006/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Moosa2006/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Moosa2006/leetcode_solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Moosa2006/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Moosa2006/leetcode_solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Moosa2006/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Moosa2006/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Moosa2006/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Moosa2006/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Moosa2006/leetcode_solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Moosa2006/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Moosa2006/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Moosa2006/leetcode_solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Prefix Sum
 |  |
 | ------- |
