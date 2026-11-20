@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Moosa2006/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Moosa2006/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Moosa2006/leetcode_solutions/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Moosa2006/leetcode_solutions/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moosa2006/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -427,9 +428,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Moosa2006/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
