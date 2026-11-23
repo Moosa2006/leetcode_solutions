@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Moosa2006/leetcode_solutions/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Moosa2006/leetcode_solutions/tree/master/0282-expression-add-operators) |
+| [0412-fizz-buzz](https://github.com/Moosa2006/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Moosa2006/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Moosa2006/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Moosa2006/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Moosa2006/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Moosa2006/leetcode_solutions/tree/master/0282-expression-add-operators) |
+| [0412-fizz-buzz](https://github.com/Moosa2006/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Moosa2006/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Moosa2006/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Moosa2006/leetcode_solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Moosa2006/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Moosa2006/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Search Tree
 |  |
